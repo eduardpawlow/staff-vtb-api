@@ -15,11 +15,6 @@ venv/
 # Ignoring Python's cache
 __pycache__/
 
-# Игнорирование миграций БД
-# Ignoring DB's migrations
-**/migrations/*.py
-!**/migrations/__init__.py
-
 # Игнорирование csv файлов
 # Ignoring csv files
 *.csv
